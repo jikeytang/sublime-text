@@ -67,7 +67,7 @@
 3.	输入你要删除的package
 4.	回车，OK
 
-## Other
+## Guide
 
 *	[怎样从直接Github的repository安装Sublime Text插件](http://code-tech.diandian.com/post/2012-11-10/40041273125)
 *	[Sublime text2的ThinkPHP插件](http://code-tech.diandian.com/post/2012-11-14/40041132753)
@@ -79,5 +79,5 @@
 *	[在 Ubuntu 12 下安装 Sublime Text 2](http://code-tech.diandian.com/post/2012-11-29/40043724758)
 
 
-## 欢迎补充
+## Add
 *	`jikeytang#gmail.com`
