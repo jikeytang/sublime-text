@@ -4,6 +4,9 @@
 ## Info
 大城小胖[视频介绍](http://v.youku.com/v_show/id_XMzU5NzQ5ODgw.html)
 
+## QQ Group
+*	193076432
+
 ## Key
 原则上是免费的，但是偶尔会提示你购买。
 ## Plugins
@@ -51,7 +54,8 @@
 	[豪情友情提供](http://www.cnblogs.com/jikey/archive/2012/11/26/2788921.html)
 		
 ## Document
-*	非官方文档：[Unofficial Document](https://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
+*	非官方文档：[Unofficial Document英文版](https://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
+[Unofficial Document中文版](http://baelabs.duapp.com/Sublime_unofficial/)
 *	sublime [配置详解](http://www.feelcss.com/sublime-text-2-settings.html)
 
 ## FAQ
@@ -62,3 +66,18 @@
 2.	查找remove package
 3.	输入你要删除的package
 4.	回车，OK
+
+## Other
+
+*	[怎样从直接Github的repository安装Sublime Text插件](http://code-tech.diandian.com/post/2012-11-10/40041273125)
+*	[Sublime text2的ThinkPHP插件](http://code-tech.diandian.com/post/2012-11-14/40041132753)
+*	[Ubuntu 下Sublime Text 2 输入中文解决方法](http://code-tech.diandian.com/post/2012-11-14/40042622351)
+*	[如何开发Sublime Text2插件_衍生篇](http://code-tech.diandian.com/post/2012-11-16/40042306130)
+*	[用sublime构建phonegap项目](http://code-tech.diandian.com/post/2012-11-16/40042845471)
+*	[超级牛B编码王（二）：Sublime2之Zencoding快速上手](http://code-tech.diandian.com/post/2012-11-16/40041334087)
+*	[sublime text 左侧菜单美化1](http://code-tech.diandian.com/post/2012-11-21/40042403501)
+*	[在 Ubuntu 12 下安装 Sublime Text 2](http://code-tech.diandian.com/post/2012-11-29/40043724758)
+
+
+## 欢迎补充
+*	`jikeytang#gmail.com`
