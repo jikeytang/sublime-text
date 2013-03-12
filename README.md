@@ -53,7 +53,8 @@
 4. [定制缩进](http://baelabs.duapp.com/Sublime/indentation.html)
 5. [拼写检查](http://baelabs.duapp.com/Sublime/spell_checking.html)
 6. [全屏模式，自由模式的定制](http://baelabs.duapp.com/Sublime/distraction_free.html)
-7. [其它配置](http://baelabs.duapp.com/Sublime/settings.html)
+7. [浏览器中预览](http://www.cnblogs.com/jikey/archive/2013/03/12/2955230.html)
+8. [其它配置](http://baelabs.duapp.com/Sublime/settings.html)
 
 ## Skill
 1. 按住 `ctrl` 键，鼠标单击就是多重选择。
