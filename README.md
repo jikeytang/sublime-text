@@ -92,6 +92,7 @@
     26. ctrl + 单击：      多外添加光标
     27. alt + F3( mac: ctrl + command + g): 选择页面中所有相同的词
     28. ctrl + F3:        跳转到下一个选中的词	
+    29. Ctrl+Shift+P Set Syntax:html : 设置文件类型
 
 ## Emmet(zencoding) Keymap    
 
