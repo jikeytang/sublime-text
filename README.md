@@ -89,11 +89,11 @@
     23. Shift+F2:         上一个书签
     24. ctrl + p:         即时的文件切换
     25. ctrl + shift + a: 选择标签内的内容 
-    26. ctrl + 单击：      多外添加光标
+    26. ctrl + 单击：      多行随意位置添加光标
     27. alt + F3( mac: ctrl + command + g): 选择页面中所有相同的词
     28. ctrl + F3:        跳转到下一个选中的词	
     29. Ctrl+Shift+P Set Syntax:html : 设置文件类型
-    30. Shift + 右键:     多行光标选中 (by Gary Gauh)
+    30. Shift + 右键:     连续多行光标选中 (by Gary Gauh)
 
 ## Emmet(zencoding) Keymap    
 
