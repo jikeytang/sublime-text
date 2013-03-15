@@ -93,7 +93,7 @@
     27. alt + F3( mac: ctrl + command + g): 选择页面中所有相同的词
     28. ctrl + F3:        跳转到下一个选中的词	
     29. Ctrl+Shift+P Set Syntax:html : 设置文件类型
-    30. Shift + 右键:     多行光标选中 (by [Gary Gauh](http://www.garyelephant.me))
+    30. Shift + 右键:     多行光标选中 (by Gary Gauh)
 
 ## Emmet(zencoding) Keymap    
 
