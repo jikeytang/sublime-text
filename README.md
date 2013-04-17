@@ -15,6 +15,8 @@
 		
 		Preferences -> Browser packages -> Emment -> emment -> snippets.json				
 	中修改。
+
+	[中文版文档](http://www.iteye.com/news/27580)
 2. 	[Side Bar](https://github.com/titoBouzout/SideBarEnhancements)`增强的侧边栏`
 3. 	[Docblockr](https://github.com/spadgos/sublime-jsdocs)`增强js注释`
 4.  [Alignment](https://github.com/wbond/sublime_alignment)`等号对齐`
