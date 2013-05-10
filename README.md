@@ -263,6 +263,7 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 
 ## Guide
 
+*	[SublimeText手册-tw](http://docs.sublimetext.tw/)
 *	[怎样从直接Github的repository安装Sublime Text插件](http://code-tech.diandian.com/post/2012-11-10/40041273125)
 *	[Sublime text2的ThinkPHP插件](http://code-tech.diandian.com/post/2012-11-14/40041132753)
 *	[Ubuntu 下Sublime Text 2 输入中文解决方法](http://code-tech.diandian.com/post/2012-11-14/40042622351)
