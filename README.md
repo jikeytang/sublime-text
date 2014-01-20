@@ -264,9 +264,13 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 3.	输入你要删除的package
 4.	回车，OK
 
+*	百度输入造成sublime闪退(感谢[leohxj](https://github.com/leohxj)提供)
+*	如果同时安装这两个软件，会造成sublime闪退，原因不详。但是测试过，是百度输入法的原因。希望能把这条信息加入到Wiki中，让更多人知道。
+
 ## Guide
 
 *	[sublimetext 3.0文档](http://baelabs.duapp.com/Sublime%20text3)
+*	[Sublime Text 3 绝对神器](http://www.cnblogs.com/bananaplan/p/Sublime-Text-3-Powerful.html)
 *	[SublimeText手册-tw](http://docs.sublimetext.tw/)
 *	[怎样从直接Github的repository安装Sublime Text插件](http://code-tech.diandian.com/post/2012-11-10/40041273125)
 *	[Sublime text2的ThinkPHP插件](http://code-tech.diandian.com/post/2012-11-14/40041132753)
