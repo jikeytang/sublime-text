@@ -5,7 +5,8 @@
 大城小胖[视频介绍](http://v.youku.com/v_show/id_XMzU5NzQ5ODgw.html)
 
 ## QQ Group
-*	193076432
+*	193076432 专注sublime-text
+*	159758989 专注前端开发(css,javascript,jquery)
 
 ## License
 原则上是免费的，但是偶尔会提示你购买。
