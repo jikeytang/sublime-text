@@ -6,7 +6,7 @@
 
 ## QQ Group
 *	193076432 专注sublime-text
-*	159758989 专注前端开发(css,javascript,jquery)
+*	348090425 专注前端开发(css,javascript,jquery)
 
 ## License
 原则上是免费的，但是偶尔会提示你购买。
