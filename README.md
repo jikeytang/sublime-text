@@ -35,6 +35,12 @@
 8.  [markdown](https://github.com/revolunet/sublimetext-markdown-preview)
 [markdown 转为 pdf](http://www.tcreator.info/social/experience/markdown-to-pdf.html)
 9. [LineEndings 设置换行符](https://github.com/SublimeText/LineEndings)
+10. [SublimeText插件列表](https://sublime.wbond.net/)
+11. [html美化插件](https://github.com/rehorn/sublime-htmlbeautify)
+12. [Sublime Text 新建文件的模版插件: SublimeTmpl](http://www.fantxi.com/blog/archives/sublime-template-engine-sublimetmpl/)
+13. [前端自动化神器LiveReload配合浏览器和less/sass使用方法](http://www.cnblogs.com/liu-l/p/3902100.html)
+14. [使用 Sublime Text 2 开发 Unity3D 项目](http://www.cnblogs.com/yili16438/p/3721896.html)
+15. [全栈开发必备的10款 Sublime Text 插件](http://www.cnblogs.com/lhb25/p/10-essential-sublime-text-plugins.html)
 		
 ## Settings
 1. Font
@@ -42,6 +48,8 @@
 2. Theme
 	*   code style: 推荐使用这款[marktheme](http://code.google.com/p/uigroupcode/downloads/detail?name=Monokai.rar&can=2&q=#makechanges)
 	*   [更换sidebar皮肤](https://gist.github.com/1854721)
+	*   [分享一个sublime 主题 ](http://jamiewilson.io/predawn/)
+	*   [颜色配色](http://colorsublime.com/)
 3. 	Preferences -> Settings - User
 	
 		{
@@ -282,7 +290,10 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 *	[超级牛B编码王（二）：Sublime2之Zencoding快速上手](http://code-tech.diandian.com/post/2012-11-16/40041334087)
 *	[sublime text 左侧菜单美化1](http://code-tech.diandian.com/post/2012-11-21/40042403501)
 *	[在 Ubuntu 12 下安装 Sublime Text 2](http://code-tech.diandian.com/post/2012-11-29/40043724758)
-
+*	[Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
+*	[Sublime Text 全程指引 by Lucida](http://www.cnblogs.com/figure9/p/sublime-text-complete-guide.html)
+*	[sublime 有哪些使用技巧](http://www.zhihu.com/question/24896283)
+*	[前端工程师手中的Sublime Text](http://www.html-js.com/article/The-frontend-tool-Megamix)
 
 ## Add
 *	`jikeytang#gmail.com`
