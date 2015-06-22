@@ -1,15 +1,15 @@
 #[sublime text Download](http://www.sublimetext.com/dev)
 <img src="http://images.cnitblog.com/blog/100150/201212/30105834-adb210004ed5468b9f67e5384225a46d.png" alt="">
 		改版过的[Monokai](http://code.google.com/p/uigroupcode/downloads/detail?name=YaHei.Consolas.1.12.zip&can=2&q=#makechanges)代码着色。
-## Info
+## Vidoe
 
-- 大城小胖[视频介绍](http://v.youku.com/v_show/id_XMzU5NzQ5ODgw.html)
-- happypeter[快乐的sublime编辑器](http://www.imooc.com/learn/333)
-- GreenBoots[前端开发工具技巧介绍—Sublime篇](http://www.imooc.com/learn/40)
+- 大城小胖 [视频介绍](http://v.youku.com/v_show/id_XMzU5NzQ5ODgw.html)
+- happypeter [快乐的sublime编辑器](http://www.imooc.com/learn/333)
+- GreenBoots [前端开发工具技巧介绍—Sublime篇](http://www.imooc.com/learn/40)
 
 ## QQ Group
 *	193076432 专注sublime-text
-*	348090425 专注前端开发(css,javascript,jquery)
+*	327388215 专注前端开发(css,javascript,jquery)
 
 ## License
 原则上是免费的，但是偶尔会提示你购买。
