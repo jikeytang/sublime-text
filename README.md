@@ -2,7 +2,10 @@
 <img src="http://images.cnitblog.com/blog/100150/201212/30105834-adb210004ed5468b9f67e5384225a46d.png" alt="">
 		改版过的[Monokai](http://code.google.com/p/uigroupcode/downloads/detail?name=YaHei.Consolas.1.12.zip&can=2&q=#makechanges)代码着色。
 ## Info
-大城小胖[视频介绍](http://v.youku.com/v_show/id_XMzU5NzQ5ODgw.html)
+
+- 大城小胖[视频介绍](http://v.youku.com/v_show/id_XMzU5NzQ5ODgw.html)
+- happypeter[快乐的sublime编辑器](http://www.imooc.com/learn/333)
+- GreenBoots[前端开发工具技巧介绍—Sublime篇](http://www.imooc.com/learn/40)
 
 ## QQ Group
 *	193076432 专注sublime-text
