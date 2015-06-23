@@ -298,5 +298,9 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 *	[sublime 有哪些使用技巧](http://www.zhihu.com/question/24896283)
 *	[前端工程师手中的Sublime Text](http://www.html-js.com/article/The-frontend-tool-Megamix)
 
+## SublimeText3
+
+- [推荐给 Web Developer 的 Sublime Text 3 插件](http://vinta.ws/code/must-have-sublime-text-packages.html)
+
 ## Add
 *	`jikeytang#gmail.com`
