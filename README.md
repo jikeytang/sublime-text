@@ -1,6 +1,6 @@
 #[sublime text Download](http://www.sublimetext.com/dev)
 <img src="http://images.cnitblog.com/blog/100150/201212/30105834-adb210004ed5468b9f67e5384225a46d.png" alt="">
-		改版过的[Monokai](http://code.google.com/p/uigroupcode/downloads/detail?name=YaHei.Consolas.1.12.zip&can=2&q=#makechanges)代码着色。
+		改版过的[Monokai](http://pan.baidu.com/s/1qWr9v56) 密码: siem 代码着色，及相关资源。
 ## Video
 
 - 大城小胖 [视频介绍](http://v.youku.com/v_show/id_XMzU5NzQ5ODgw.html)
