@@ -302,6 +302,8 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 ## SublimeText3
 
 - [推荐给 Web Developer 的 Sublime Text 3 插件](http://vinta.ws/code/must-have-sublime-text-packages.html)
+- [Bootstrap 3 Snippets Plugin for Sublime Text 2/3](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
+- [自定义Emmet语法规则以快速输出bootstrap组件](http://frontenddev.org/article/sublime-does-text-3-plug-in-custom-emmet-grammatical-rules-in-order-to-quickly-bootstrap-output-component.html)
 
 ## Add
 *	`jikeytang#gmail.com`
