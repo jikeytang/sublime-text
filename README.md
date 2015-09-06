@@ -281,7 +281,7 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 
 ## Guide
 
-*       [xdebug调试](https://github.com/martomo/SublimeTextXdebug)
+*   [xdebug调试](https://github.com/martomo/SublimeTextXdebug)
 *	[sublimetext 3.0文档](http://baelabs.duapp.com/Sublime%20text3)
 *	[Sublime Text 3 绝对神器](http://www.cnblogs.com/bananaplan/p/Sublime-Text-3-Powerful.html)
 *	[SublimeText手册-tw](http://docs.sublimetext.tw/)
@@ -298,6 +298,7 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 *	[sublime 有哪些使用技巧](http://www.zhihu.com/question/24896283)
 *	[前端工程师手中的Sublime Text](http://www.html-js.com/article/The-frontend-tool-Megamix)
 *	[Sublime 进阶使用](http://blog.saymagic.cn/2015/06/20/write-blog-by-sublime.html)
+*	[JavaScript 开发者必备的10款 Sublime Text 插件](http://info.9iphp.com/essential-sublime-text-javascript-plugins/)
 
 ## SublimeText3
 
