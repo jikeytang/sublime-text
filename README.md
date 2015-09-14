@@ -299,6 +299,7 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 *	[前端工程师手中的Sublime Text](http://www.html-js.com/article/The-frontend-tool-Megamix)
 *	[Sublime 进阶使用](http://blog.saymagic.cn/2015/06/20/write-blog-by-sublime.html)
 *	[JavaScript 开发者必备的10款 Sublime Text 插件](http://info.9iphp.com/essential-sublime-text-javascript-plugins/)
+*	[ Sublime Text 学习日志](https://github.com/HereChen/LogList/blob/master/sublimeLog.md)
 
 ## SublimeText3
 
