@@ -68,6 +68,7 @@
 	
 	- 全屏设置 Preferences -> Settings - User
 	
+	    ```javascript
 	    {
             "line_numbers": true,      //是否显示行号
             "gutter": true,            //是否显示边列
@@ -76,7 +77,7 @@
             "word_wrap": false,          //是否自动换行
             "scroll_past_end": true     //滚动能否超过结尾
         }
-	    
+	    ```
 		
 4. [定制缩进](http://baelabs.duapp.com/Sublime/indentation.html)
 5. [拼写检查](http://baelabs.duapp.com/Sublime/spell_checking.html)
