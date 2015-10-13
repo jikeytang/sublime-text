@@ -53,7 +53,7 @@
 	*   [更换sidebar皮肤](https://gist.github.com/1854721)
 	*   [分享一个sublime 主题 ](http://jamiewilson.io/predawn/)
 	*   [颜色配色](http://colorsublime.com/)
-3. 	
+3. Preferences
     - 用户设置  Preferences -> Settings - User
 	
 	    ```javascript
@@ -68,7 +68,7 @@
 		}
 		```
 	
-	- 全屏设置 Preferences -> Settings - User
+	- 全屏设置 Preferences -> Settings - More -> Distraction Free - User
 	
 	    ```javascript
 	    {
