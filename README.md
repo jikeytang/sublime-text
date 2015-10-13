@@ -56,6 +56,7 @@
 3. 	
     - 用户设置  Preferences -> Settings - User
 	
+	    ```javascript
 		{
 			"color_scheme"        : "Packages/Color Scheme - Default/Monokai.tmTheme",    // theme
 			"draw_minimap_border" : true,                                                 // 右侧缩略图边框
@@ -65,6 +66,7 @@
 			"ignored_packages"    :	["Toggle Css Format"],                                // 开启vim模式
 			"save_on_focus_lost"  : true                                                  // 失去焦点后保存
 		}
+		```
 	
 	- 全屏设置 Preferences -> Settings - User
 	
