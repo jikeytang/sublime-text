@@ -53,7 +53,8 @@
 	*   [更换sidebar皮肤](https://gist.github.com/1854721)
 	*   [分享一个sublime 主题 ](http://jamiewilson.io/predawn/)
 	*   [颜色配色](http://colorsublime.com/)
-3. 	Preferences -> Settings - User
+3. 	
+    - 用户设置  Preferences -> Settings - User
 	
 		{
 			"color_scheme"        : "Packages/Color Scheme - Default/Monokai.tmTheme",    // theme
@@ -64,6 +65,18 @@
 			"ignored_packages"    :	["Toggle Css Format"],                                // 开启vim模式
 			"save_on_focus_lost"  : true                                                  // 失去焦点后保存
 		}
+	
+	- 全屏设置 Preferences -> Settings - User
+	
+	    {
+            "line_numbers": true,      //是否显示行号
+            "gutter": true,            //是否显示边列
+            "draw_centered": true,      //是否居中显示
+            "wrap_width": 80,           //换行宽度(单位：字符)
+            "word_wrap": false,          //是否自动换行
+            "scroll_past_end": true     //滚动能否超过结尾
+        }
+	    
 		
 4. [定制缩进](http://baelabs.duapp.com/Sublime/indentation.html)
 5. [拼写检查](http://baelabs.duapp.com/Sublime/spell_checking.html)
