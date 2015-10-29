@@ -285,15 +285,21 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 
 ## FAQ
 
-*	如何删除安装的插件？
+-	如何删除安装的插件？
 
 1.	ctr+shift+P,输入package
 2.	查找remove package
 3.	输入你要删除的package
 4.	回车，OK
 
-*	百度输入造成sublime闪退(感谢[leohxj](https://github.com/leohxj)提供)
+-	百度输入造成sublime闪退(感谢[leohxj](https://github.com/leohxj)提供)
 	如果同时安装这两个软件，会造成sublime闪退，原因不详。但是测试过，是百度输入法的原因。希望能把这条信息加入到Wiki中，让更多人知道。
+	
+- Emmet tab失效问题
+
+    - [Sublime报please wait a bit while pyV8 binary](http://jingyan.baidu.com/article/aa6a2c14d5177f0d4d19c45f.html)
+    - [Sublime Text 3 解决Emmet失效的问题](http://www.jianshu.com/p/0862e754cf15)
+    - [关于Sublime text 2中Emmet的安装 _html:xt无效](http://www.csdn123.com/html/itweb/20130915/119877_119876_119883.htm)
 
 ## Guide
 
