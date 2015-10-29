@@ -287,10 +287,10 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 
 -	如何删除安装的插件？
 
-1.	ctr+shift+P,输入package
-2.	查找remove package
-3.	输入你要删除的package
-4.	回车，OK
+    1.	ctr+shift+P,输入package
+    2.	查找remove package
+    3.	输入你要删除的package
+    4.	回车，OK
 
 -	百度输入造成sublime闪退(感谢[leohxj](https://github.com/leohxj)提供)
 	如果同时安装这两个软件，会造成sublime闪退，原因不详。但是测试过，是百度输入法的原因。希望能把这条信息加入到Wiki中，让更多人知道。
