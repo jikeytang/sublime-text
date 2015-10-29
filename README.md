@@ -80,6 +80,14 @@
             "scroll_past_end": true     //滚动能否超过结尾
         }
 	    ```
+	- Emmet css冒号后面的空格，在emmet-settings-default
+	
+	    ```javascript 
+        "preferences": {
+            "css.valueSeparator": ":",
+            "css.propertyEnd": ";"
+        }
+        ```
 		
 4. [定制缩进](http://baelabs.duapp.com/Sublime/indentation.html)
 5. [拼写检查](http://baelabs.duapp.com/Sublime/spell_checking.html)
@@ -323,6 +331,9 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 *	[Sublime 进阶使用](http://blog.saymagic.cn/2015/06/20/write-blog-by-sublime.html)
 *	[JavaScript 开发者必备的10款 Sublime Text 插件](http://info.9iphp.com/essential-sublime-text-javascript-plugins/)
 *	[ Sublime Text 学习日志](https://github.com/HereChen/LogList/blob/master/sublimeLog.md)
+*	[Sublime Text 之运行 ES6 (基于babel)](http://www.52cik.com/2015/10/21/sublime-text-run-es6.html)
+*	[sublime 英文教程](http://code.tutsplus.com/)
+*	[Sublime-Tutorial](https://github.com/liveNo/Sublime-Tutorial)
 
 ## SublimeText3
 
