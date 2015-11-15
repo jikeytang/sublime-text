@@ -44,6 +44,10 @@
 13. [前端自动化神器LiveReload配合浏览器和less/sass使用方法](http://www.cnblogs.com/liu-l/p/3902100.html)
 14. [使用 Sublime Text 2 开发 Unity3D 项目](http://www.cnblogs.com/yili16438/p/3721896.html)
 15. [全栈开发必备的10款 Sublime Text 插件](http://www.cnblogs.com/lhb25/p/10-essential-sublime-text-plugins.html)
+16. 其它语言框架支持
+    
+    - [avalon completion for sublime 3](https://github.com/gogoyqj/AvalonHelper)
+    - [Thinkphp Sublime插件 显示优化，兼容St3版本)](https://github.com/yangweijie/SublimeThinkPHP)
 		
 ## Settings
 1. Font
