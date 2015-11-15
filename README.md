@@ -46,13 +46,22 @@
 15. [全栈开发必备的10款 Sublime Text 插件](http://www.cnblogs.com/lhb25/p/10-essential-sublime-text-plugins.html)
 16. 其它语言框架支持
     
-    - [nodejs snippets and bindings for Sublime Text 2](https://github.com/tanepiper/SublimeText-Nodejs)
-    - [AngularJS-sublime-package](https://github.com/angular-ui/AngularJS-sublime-package)
-    - [avalon completion for sublime 3](https://github.com/gogoyqj/AvalonHelper)
-    - [Thinkphp Sublime插件 显示优化，兼容St3版本)](https://github.com/yangweijie/SublimeThinkPHP)
-    - [Bootstrap 3 Snippets Plugin for Sublime Text 2/3](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
-    - [laravelgenerator](https://github.com/gnarula/sublime-laravelgenerator)
-    - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
+    - JavaScript
+    
+        - [nodejs snippets and bindings for Sublime Text 2](https://github.com/tanepiper/SublimeText-Nodejs)
+        - [AngularJS-sublime-package](https://github.com/angular-ui/AngularJS-sublime-package)
+        - [avalon completion for sublime 3](https://github.com/gogoyqj/AvalonHelper)
+    
+    - CSS
+    
+        - [Bootstrap 3 Snippets Plugin for Sublime Text 2/3](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
+    
+    - PHP
+        
+        - [Thinkphp Sublime插件 显示优化，兼容St3版本)](https://github.com/yangweijie/SublimeThinkPHP)
+        - [laravelgenerator](https://github.com/gnarula/sublime-laravelgenerator)
+        - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
+        - [Sublime中的函数手册提示](https://github.com/yangweijie/SublimePHPNinJaManual)
 		
 ## Settings
 1. Font
