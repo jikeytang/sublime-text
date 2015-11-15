@@ -108,6 +108,12 @@
      
     pause
     ```
+10. [st开启全屏之后的设置](http://blog.sina.com.cn/s/blog_aef7731b01018cnx.html) 
+11. React相关
+    
+    - [React-navite 实战系列教程之 （开发工具篇）](http://www.jianshu.com/p/89771e8bcee5) 
+    - [Enable Emmet in .JSX files, using Babel JSX Syntax highlighter](https://gist.github.com/neilcarpenter/8979ea9ed91b10e36af9) 
+    - [Sublime text 3. Enable Emmet in JSX files](https://gist.github.com/max-mykhailenko/41d0c3991d92f38dcbc6) 
 
 ## Skill
 1. 按住 `ctrl` 键，鼠标单击就是多重选择。
