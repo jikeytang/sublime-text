@@ -53,6 +53,7 @@
 	*   [更换sidebar皮肤](https://gist.github.com/1854721)
 	*   [分享一个sublime 主题 ](http://jamiewilson.io/predawn/)
 	*   [颜色配色](http://colorsublime.com/)
+	*   [针对 ST3 的皮肤](https://github.com/ctf0/Seti_ST3)
 3. Preferences
     - 用户设置  Preferences -> Settings - User
 	
@@ -94,6 +95,19 @@
 6. [全屏模式，自由模式的定制](http://baelabs.duapp.com/Sublime/distraction_free.html)
 7. [在sublime-text中设置浏览器预览](http://www.cnblogs.com/jikey/archive/2013/03/12/2955230.html)
 8. [其它配置](http://baelabs.duapp.com/Sublime/settings.html)
+９. [配置sublime右键打开](http://www.pixelstech.net/article/1445261721-Add-Sublime-Text-to-your-context-menu-on-right-click)
+
+    ```shell
+    @echo off
+    SET sublimeTextPath=C:\Program Files\Sublime Text 3\sublime_text.exe
+     
+    REM ADD REGISTRY KEYS
+    @reg add "HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text 3"         /t REG_SZ /v "" /d "Open with Sublime Text 3"   /f
+    @reg add "HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text 3"         /t REG_EXPAND_SZ /v "Icon" /d "%sublimeTextPath%,0" /f
+    @reg add "HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text 3\command" /t REG_SZ /v "" /d "%sublimeTextPath% \"%%1\"" /f
+     
+    pause
+    ```
 
 ## Skill
 1. 按住 `ctrl` 键，鼠标单击就是多重选择。
