@@ -95,7 +95,7 @@
 6. [全屏模式，自由模式的定制](http://baelabs.duapp.com/Sublime/distraction_free.html)
 7. [在sublime-text中设置浏览器预览](http://www.cnblogs.com/jikey/archive/2013/03/12/2955230.html)
 8. [其它配置](http://baelabs.duapp.com/Sublime/settings.html)
-９. [配置sublime右键打开](http://www.pixelstech.net/article/1445261721-Add-Sublime-Text-to-your-context-menu-on-right-click)
+9. [配置sublime右键打开](http://www.pixelstech.net/article/1445261721-Add-Sublime-Text-to-your-context-menu-on-right-click)
 
     ```shell
     @echo off
