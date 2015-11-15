@@ -47,6 +47,7 @@
 16. 其它语言框架支持
     
     - [nodejs snippets and bindings for Sublime Text 2](https://github.com/tanepiper/SublimeText-Nodejs)
+    - [AngularJS-sublime-package](https://github.com/angular-ui/AngularJS-sublime-package)
     - [avalon completion for sublime 3](https://github.com/gogoyqj/AvalonHelper)
     - [Thinkphp Sublime插件 显示优化，兼容St3版本)](https://github.com/yangweijie/SublimeThinkPHP)
     - [Bootstrap 3 Snippets Plugin for Sublime Text 2/3](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
