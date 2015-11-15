@@ -46,8 +46,12 @@
 15. [全栈开发必备的10款 Sublime Text 插件](http://www.cnblogs.com/lhb25/p/10-essential-sublime-text-plugins.html)
 16. 其它语言框架支持
     
+    - [nodejs snippets and bindings for Sublime Text 2](https://github.com/tanepiper/SublimeText-Nodejs)
     - [avalon completion for sublime 3](https://github.com/gogoyqj/AvalonHelper)
     - [Thinkphp Sublime插件 显示优化，兼容St3版本)](https://github.com/yangweijie/SublimeThinkPHP)
+    - [Bootstrap 3 Snippets Plugin for Sublime Text 2/3](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
+    - [laravelgenerator](https://github.com/gnarula/sublime-laravelgenerator)
+    - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
 		
 ## Settings
 1. Font
@@ -365,6 +369,7 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 - [Bootstrap 3 Snippets Plugin for Sublime Text 2/3](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
 - [自定义Emmet语法规则以快速输出bootstrap组件](http://frontenddev.org/article/sublime-does-text-3-plug-in-custom-emmet-grammatical-rules-in-order-to-quickly-bootstrap-output-component.html)
 - [Sublime text 3 中文文件名显示方框怎么解决？](http://www.zhihu.com/question/24029280/answer/30256243)
+- [win下Sublime Text 3开发 Nodejs](https://cnodejs.org/topic/51ee453af4963ade0ebde85e)
 
 ## Add
 *	`jikeytang#gmail.com`
