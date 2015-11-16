@@ -14,6 +14,7 @@
 ## License
 原则上是免费的，但是偶尔会提示你购买。
 ## Plugins
+插件有很多，但不建议全部都安装，用到那个安装那个，安装过多，由于插件质量良莠不齐，会使软件本身不稳定，经常挂掉。
 1.   [Emmet Git](https://github.com/emmetio/emmet)，[Document](http://docs.emmet.io/)原名为：`Zencoding, 快速生成html,css`，默认扩展快捷为`tab`，如果`tab`按钮损坏，`ctrl+e`替换。
 	生成规则在：
 		
@@ -81,6 +82,7 @@
 	*   [颜色配色](http://colorsublime.com/)
 	*   [针对 ST3 的皮肤](https://github.com/ctf0/Seti_ST3)
 3. Preferences
+    - 
     - 用户设置  Preferences -> Settings - User
 	
 	    ```javascript
@@ -92,6 +94,10 @@
 			"highlight_line"      : true,                                                 // 当前行标亮
 			"ignored_packages"    :	["Toggle Css Format"],                                // 开启vim模式
 			"save_on_focus_lost"  : true                                                  // 失去焦点后保存
+			"auto_complete"       : false,                                                // 失去焦点后保存
+			"word_wrap"           : false,                                                // 强制不换行
+			"word_separators"     : "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",                 // 双击选中中划线
+			"update_check"        : false                                                 // 关闭自动更新
 		}
 		```
 	
@@ -99,12 +105,12 @@
 	
 	    ```javascript
 	    {
-            "line_numbers": true,      //是否显示行号
-            "gutter": true,            //是否显示边列
-            "draw_centered": true,      //是否居中显示
-            "wrap_width": 80,           //换行宽度(单位：字符)
-            "word_wrap": false,          //是否自动换行
-            "scroll_past_end": true     //滚动能否超过结尾
+            "line_numbers"     : true,        //是否显示行号
+            "gutter"           : true,        //是否显示边列
+            "draw_centered"    : true,        //是否居中显示
+            "wrap_width"       : 80,          //换行宽度(单位：字符)
+            "word_wrap"        : false,       //是否自动换行
+            "scroll_past_end"  : true         //滚动能否超过结尾
         }
 	    ```
 	- Emmet css冒号后面的空格，在emmet-settings-default
@@ -112,8 +118,43 @@
 	    ```javascript 
         "preferences": {
             "css.valueSeparator": ":",
-            "css.propertyEnd": ";"
+            "css.propertyEnd"   : ";"
         }
+        ```
+    - 修改的快捷键，完全向webstorm看齐，两个软件切换无缝。
+    
+        ```javascript
+        [
+            { "keys": ["ctrl+shift+c"], "command": "copy_path" },
+            { "keys": ["ctrl+shift+f"], "command": "html_tidy" },
+            { "keys": ["alt+f12"], "command": "open_in_browser" }, // ie
+            { "keys": ["f12"], "command": "side_bar_files_open_with", // firefox
+                "args": {
+                    "paths": [],
+                    "application": "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe",
+                    "extensions":".*" //any file with extension
+                } },
+            { "keys": ["ctrl+f12"], "command": "side_bar_files_open_with", // firefox
+            "args": {
+                "paths": [],
+                "application": "C:\\Users\\tony\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe",
+                "extensions":".*" //any file with extension
+            } },
+            { "keys": ["`"], "command": "toggle_distraction_free" },
+            { "keys": ["alt+c"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+            { "keys": ["alt+w"], "command": "toggle_comment" },
+            { "keys": ["alt+f3"], "command": "htmlprettify" },
+            { "keys": ["ctrl+d"], "command": "duplicate_line" },
+            { "keys": ["ctrl+shift+d"], "command": "find_under_expand" },
+            { "keys": ["ctr+shift+w"], "command": "close" },
+            { "keys": ["ctrl+w"], "command": "find_under_expand" },
+            { "keys": ["alt+d"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
+            { "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "Packages/Default/Add Line.sublime-macro"} },
+            { "keys": ["ctrl+enter"], "command": "run_macro_file", "args": {"file": "Packages/Default/Add Line Before.sublime-macro"} },
+            { "keys": ["alt+right"], "command": "next_view" }, // 下一个标签
+            { "keys": ["alt+left"], "command": "prev_view" }, // 上一个标签
+            { "keys": ["alt+1"], "command": "toggle_side_bar" }
+        ]
         ```
 		
 4. [定制缩进](http://baelabs.duapp.com/Sublime/indentation.html)
