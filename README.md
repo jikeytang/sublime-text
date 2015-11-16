@@ -121,7 +121,7 @@
             "css.propertyEnd"   : ";"
         }
         ```
-    - 修改的快捷键，完全向webstorm看齐，两个软件切换无缝。
+    - 修改的快捷键，完全向webstorm看齐，两个软件切换无缝。 Preferences -> Key Bindings - User
     
         ```javascript
         [
