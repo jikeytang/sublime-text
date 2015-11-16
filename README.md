@@ -15,6 +15,7 @@
 原则上是免费的，但是偶尔会提示你购买。
 ## Plugins
 插件有很多，但不建议全部都安装，用到那个安装那个，安装过多，由于插件质量良莠不齐，会使软件本身不稳定，经常挂掉。
+
 1.   [Emmet Git](https://github.com/emmetio/emmet)，[Document](http://docs.emmet.io/)原名为：`Zencoding, 快速生成html,css`，默认扩展快捷为`tab`，如果`tab`按钮损坏，`ctrl+e`替换。
 	生成规则在：
 		
