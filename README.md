@@ -62,6 +62,14 @@
         - [laravelgenerator](https://github.com/gnarula/sublime-laravelgenerator)
         - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
         - [Sublime中的函数手册提示](https://github.com/yangweijie/SublimePHPNinJaManual)
+        
+17. 版本管理
+       
+    - [git](https://github.com/kemayo/sublime-text-git)
+    - [svn](https://wbond.net/sublime_packages/svn)
+    - [ftp](https://wbond.net/sublime_packages/sftp)
+
+18. [文件比较](https://github.com/colinta/SublimeFileDiffs)
 		
 ## Settings
 1. Font
