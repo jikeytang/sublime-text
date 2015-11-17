@@ -94,7 +94,7 @@
 			"font_size"           : 13,                                                   // 字体大小
 			"highlight_line"      : true,                                                 // 当前行标亮
 			"ignored_packages"    :	["Toggle Css Format"],                                // 开启vim模式
-			"save_on_focus_lost"  : true                                                  // 失去焦点后保存
+			"save_on_focus_lost"  : true,                                                 // 失去焦点后保存
 			"auto_complete"       : false,                                                // 失去焦点后保存
 			"word_wrap"           : false,                                                // 强制不换行
 			"word_separators"     : "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",                 // 双击选中中划线
