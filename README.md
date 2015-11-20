@@ -422,6 +422,8 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 *	[Sublime Text 之运行 ES6 (基于babel)](http://www.52cik.com/2015/10/21/sublime-text-run-es6.html)
 *	[sublime 英文教程](http://code.tutsplus.com/)
 *	[Sublime-Tutorial](https://github.com/liveNo/Sublime-Tutorial)
+*	[Sublime Text 2搭建Java开发环境](http://blog.csdn.net/chszs/article/details/8232051)
+*	[如何优雅地使用Sublime Text](http://www.jeffjade.com/2015/09/17/2015-04-17-toss-sublime-text/)
 
 ## SublimeText3
 
@@ -430,6 +432,7 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 - [自定义Emmet语法规则以快速输出bootstrap组件](http://frontenddev.org/article/sublime-does-text-3-plug-in-custom-emmet-grammatical-rules-in-order-to-quickly-bootstrap-output-component.html)
 - [Sublime text 3 中文文件名显示方框怎么解决？](http://www.zhihu.com/question/24029280/answer/30256243)
 - [win下Sublime Text 3开发 Nodejs](https://cnodejs.org/topic/51ee453af4963ade0ebde85e)
+- [使用sublime Text 3进行java编程的一些总结](http://blog.csdn.net/wolinxuebin/article/details/41049551)
 
 ## Add
 *	`jikeytang#gmail.com`
