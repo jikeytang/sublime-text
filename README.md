@@ -37,8 +37,11 @@
 5. 	[AutoFileName](https://github.com/BoundInCode/AutoFileName): `文件路径自动提示`
 6.  [gbk支持 GBK Encoding Support](https://github.com/akira-cn/sublime-gbk)
 7.  [检测快捷键冲突](http://www.welefen.com/keymapmanager-add-check-plugins-keymap-conflict-feature.html)
-8.  [markdown](https://github.com/revolunet/sublimetext-markdown-preview)
-[markdown 转为 pdf](http://www.tcreator.info/social/experience/markdown-to-pdf.html)
+8.  - markdown
+
+    [markdown](https://github.com/revolunet/sublimetext-markdown-preview)
+    [markdown 转为 pdf](http://www.tcreator.info/social/experience/markdown-to-pdf.html)
+    
 9. [LineEndings 设置换行符](https://github.com/SublimeText/LineEndings)
 10. [SublimeText插件列表](https://sublime.wbond.net/)
 11. [html美化插件](https://github.com/rehorn/sublime-htmlbeautify)
@@ -72,6 +75,7 @@
     - [ftp](https://wbond.net/sublime_packages/sftp)
 
 18. [文件比较](https://github.com/colinta/SublimeFileDiffs)
+19. [CSS值转REM的Sublime Text插件](https://github.com/flashlizi/cssrem)
 		
 ## Settings
 1. Font
