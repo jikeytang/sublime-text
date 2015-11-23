@@ -60,6 +60,7 @@
     - CSS
     
         - [Bootstrap 3 Snippets Plugin for Sublime Text 2/3](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
+        - [Sublime Text代码片段收藏](https://github.com/jakebresnehan/Sublime-Super-Snippets)
     
     - PHP
         
