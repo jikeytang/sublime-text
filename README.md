@@ -185,6 +185,7 @@
     ```
     
    - [localhost设置打开](http://www.hongkiat.com/blog/preview-in-localhost/)
+   - [Sublime Text 3 配置浏览器预览路径 localhost](http://jingyan.baidu.com/article/15622f2419ce79fdfcbea5ea.html)
    
    
 10. [st开启全屏之后的设置](http://blog.sina.com.cn/s/blog_aef7731b01018cnx.html) 
