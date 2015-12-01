@@ -168,7 +168,9 @@
 6. [全屏模式，自由模式的定制](http://baelabs.duapp.com/Sublime/distraction_free.html)
 7. [在sublime-text中设置浏览器预览](http://www.cnblogs.com/jikey/archive/2013/03/12/2955230.html)
 8. [其它配置](http://baelabs.duapp.com/Sublime/settings.html)
-9. [配置sublime右键打开](http://www.pixelstech.net/article/1445261721-Add-Sublime-Text-to-your-context-menu-on-right-click)
+9. 预览设置
+   
+   - [配置sublime右键打开](http://www.pixelstech.net/article/1445261721-Add-Sublime-Text-to-your-context-menu-on-right-click)
 
     ```shell
     @echo off
@@ -181,6 +183,10 @@
      
     pause
     ```
+    
+   - [localhost设置打开](http://www.hongkiat.com/blog/preview-in-localhost/)
+   
+   
 10. [st开启全屏之后的设置](http://blog.sina.com.cn/s/blog_aef7731b01018cnx.html) 
 11. React相关
     
