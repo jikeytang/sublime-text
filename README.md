@@ -445,6 +445,7 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 - [Sublime text 3 中文文件名显示方框怎么解决？](http://www.zhihu.com/question/24029280/answer/30256243)
 - [win下Sublime Text 3开发 Nodejs](https://cnodejs.org/topic/51ee453af4963ade0ebde85e)
 - [使用sublime Text 3进行java编程的一些总结](http://blog.csdn.net/wolinxuebin/article/details/41049551)
+- [Sublime Text 3能用支持的插件推荐](http://dengo.org/archives/923)
 
 ## Add
 *	`jikeytang#gmail.com`
