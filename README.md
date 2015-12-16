@@ -37,10 +37,12 @@
 5. 	[AutoFileName](https://github.com/BoundInCode/AutoFileName): `文件路径自动提示`
 6.  [gbk支持 GBK Encoding Support](https://github.com/akira-cn/sublime-gbk)
 7.  [检测快捷键冲突](http://www.welefen.com/keymapmanager-add-check-plugins-keymap-conflict-feature.html)
-8.  - markdown
+8. Markdown
 
-    [markdown](https://github.com/revolunet/sublimetext-markdown-preview)
-    [markdown 转为 pdf](http://www.tcreator.info/social/experience/markdown-to-pdf.html)
+    - Markdown
+
+        - [markdown](https://github.com/revolunet/sublimetext-markdown-preview)
+        - [markdown 转为 pdf](http://www.tcreator.info/social/experience/markdown-to-pdf.html)
     
 9. [LineEndings 设置换行符](https://github.com/SublimeText/LineEndings)
 10. [SublimeText插件列表](https://sublime.wbond.net/)
@@ -64,7 +66,7 @@
         - [Sublime Text代码片段收藏](https://github.com/jakebresnehan/Sublime-Super-Snippets)
     
     - PHP
-        
+
         - [Thinkphp Sublime插件 显示优化，兼容St3版本)](https://github.com/yangweijie/SublimeThinkPHP)
         - [laravelgenerator](https://github.com/gnarula/sublime-laravelgenerator)
         - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
