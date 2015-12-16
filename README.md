@@ -390,7 +390,7 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 		
 ## Document
 *	非官方文档：[Unofficial Document英文版](https://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
-[Unofficial Document中文版](http://baelabs.duapp.com/Sublime_unofficial/)
+*	[Unofficial Document中文版](http://baelabs.duapp.com/Sublime_unofficial/)
 *	sublime [配置详解](http://www.feelcss.com/sublime-text-2-settings.html)
 *	sublime [其它文档](http://baelabs.duapp.com/Sublime/)
 
