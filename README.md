@@ -56,6 +56,7 @@
         - [nodejs snippets and bindings for Sublime Text 2](https://github.com/tanepiper/SublimeText-Nodejs)
         - [AngularJS-sublime-package](https://github.com/angular-ui/AngularJS-sublime-package)
         - [avalon completion for sublime 3](https://github.com/gogoyqj/AvalonHelper)
+        - [Sublime Text highlighting for Vue.js](https://github.com/vuejs/vue-syntax-highlight)
     
     - CSS
     
@@ -446,6 +447,8 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 - [win下Sublime Text 3开发 Nodejs](https://cnodejs.org/topic/51ee453af4963ade0ebde85e)
 - [使用sublime Text 3进行java编程的一些总结](http://blog.csdn.net/wolinxuebin/article/details/41049551)
 - [Sublime Text 3能用支持的插件推荐](http://dengo.org/archives/923)
+- [使用sublime Text 3进行java编程的一些总结](http://blog.csdn.net/wolinxuebin/article/details/41049551)
+- [sublime text3 设置专题](https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
 
 ## Add
 *	`jikeytang#gmail.com`
