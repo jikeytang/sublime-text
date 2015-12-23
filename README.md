@@ -204,6 +204,7 @@
 3. 根据选择文本自动添加 ', "",(),[] 匹配。	
 4. 搜索按钮的功能说明 (冷风贡献)：   
     <img src="http://e.hiphotos.baidu.com/album/pic/item/77094b36acaf2edd9ffd46a08c1001e93901936e.jpg" />	
+5. [使用 Sublime + PlantUML 高效地画图](http://www.jianshu.com/p/e92a52770832)
 
 
 ## Default Keymap
