@@ -80,6 +80,7 @@
 
 18. [文件比较](https://github.com/colinta/SublimeFileDiffs)
 19. [CSS值转REM的Sublime Text插件](https://github.com/flashlizi/cssrem)
+20. [本地历史记录](https://github.com/vishr/local-history)
 		
 ## Settings
 1. Font
