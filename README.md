@@ -37,11 +37,8 @@
 6.  [gbk支持 GBK Encoding Support](https://github.com/akira-cn/sublime-gbk)
 7.  [检测快捷键冲突](http://www.welefen.com/keymapmanager-add-check-plugins-keymap-conflict-feature.html)
 8. Markdown
-
-    - Markdown
-
-        - [markdown](https://github.com/revolunet/sublimetext-markdown-preview)
-        - [markdown 转为 pdf](http://www.tcreator.info/social/experience/markdown-to-pdf.html)
+    - [markdown](https://github.com/revolunet/sublimetext-markdown-preview)
+    - [markdown 转为 pdf](http://www.tcreator.info/social/experience/markdown-to-pdf.html)
     
 9. [LineEndings 设置换行符](https://github.com/SublimeText/LineEndings)
 10. [SublimeText插件列表](https://sublime.wbond.net/)
@@ -91,7 +88,6 @@
 	*   [颜色配色](http://colorsublime.com/)
 	*   [针对 ST3 的皮肤](https://github.com/ctf0/Seti_ST3)
 3. Preferences
-    - 
     - 用户设置  Preferences -> Settings - User
 	
 	    ```javascript
