@@ -8,8 +8,7 @@
 - GreenBoots [前端开发工具技巧介绍—Sublime篇](http://www.imooc.com/learn/40)
 
 ## QQ Group
-*	193076432 专注sublime-text
-*	327388215 专注前端开发(css,javascript,jquery)
+*	492107297 偏前端开发(css,javascript,jquery)
 
 ## License
 原则上是免费的，但是偶尔会提示你购买。
