@@ -437,6 +437,7 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 *	[Sublime Text 2搭建Java开发环境](http://blog.csdn.net/chszs/article/details/8232051)
 *	[高端唯有定制，把sublime打造成专属的IDE](http://yalishizhude.github.io/2015/10/20/sublime/)
 *	[如何优雅地使用 Sublime Text](http://blog.jobbole.com/95933/)
+*	[一个前端程序猿的Sublime Text3的自我修养](http://guowenfh.github.io/2015/12/26/SublimeText/)
 
 ## SublimeText3
 
