@@ -68,6 +68,10 @@
         - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
         - [Sublime中的函数手册提示](https://github.com/yangweijie/SublimePHPNinJaManual)
         
+    - Nodejs
+    
+        - [sublime3 配置node build环境](http://segmentfault.com/q/1010000004259136)
+        
 17. 版本管理
        
     - [git](https://github.com/kemayo/sublime-text-git)
