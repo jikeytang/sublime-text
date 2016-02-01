@@ -442,6 +442,7 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 *	[高端唯有定制，把sublime打造成专属的IDE](http://yalishizhude.github.io/2015/10/20/sublime/)
 *	[如何优雅地使用 Sublime Text](http://blog.jobbole.com/95933/)
 *	[一个前端程序猿的Sublime Text3的自我修养](http://guowenfh.github.io/2015/12/26/SublimeText/)
+*	[前端开发sublimeconfig](https://github.com/zhiqiang21/MyToolsConfig/blob/master/sublimeconfig/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%20sublime%20text%20%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6%E5%92%8C%E9%85%8D%E7%BD%AE.md)
 
 ## SublimeText3
 
