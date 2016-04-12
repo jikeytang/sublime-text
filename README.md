@@ -75,6 +75,7 @@
 17. 版本管理
        
     - [git](https://github.com/kemayo/sublime-text-git)
+    - [git](https://github.com/jikeytang/sublime-text.git)
     - [svn](https://wbond.net/sublime_packages/svn)
     - [ftp](https://wbond.net/sublime_packages/sftp)
 
