@@ -399,6 +399,15 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 
 ## FAQ
 
+- 如何安装插件？
+
+    1. 直接安装
+       可以去github下载安装包解压缩到Packages目录（菜单->preferences->packages）。
+    2. 利用package，在安装插件之前先安装package [packagecontrol 安装](https://packagecontrol.io/installation)
+       如果在Perferences->package settings中看到package control这一项，则安装成功。
+    3. 用Package Control安装插件的方法：
+       按下Ctrl+Shift+P调出命令面板，输入install，出现Install Package 选项并回车，然后在列表中选中要安装的插件或者直接输入需要安装插件的名称，比如Emmet。
+
 -	如何删除安装的插件？
 
     1.	ctr+shift+P,输入package
