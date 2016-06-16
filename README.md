@@ -55,6 +55,7 @@
         - [AngularJS-sublime-package](https://github.com/angular-ui/AngularJS-sublime-package)
         - [avalon completion for sublime 3](https://github.com/gogoyqj/AvalonHelper)
         - [Sublime Text highlighting for Vue.js](https://github.com/vuejs/vue-syntax-highlight)
+        - [Sublime Text helpers for React](https://github.com/facebookarchive/sublime-react)
     
     - CSS
     
