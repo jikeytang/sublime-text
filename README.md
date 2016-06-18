@@ -94,6 +94,7 @@
 	*   [颜色配色](http://colorsublime.com/)
 	*   [针对 ST3 的皮肤](https://github.com/ctf0/Seti_ST3)
 	*   [A Hyperminimal UI Theme for Sublime Text](https://github.com/kkga/spacegray)
+	*   [Customize color scheme for Sublime](https://github.com/zchen9/sublime-color-scheme/)
 3. Preferences
     - 用户设置  Preferences -> Settings - User
 	
