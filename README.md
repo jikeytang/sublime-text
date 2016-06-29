@@ -56,7 +56,8 @@
         - [avalon completion for sublime 3](https://github.com/gogoyqj/AvalonHelper)
         - [Sublime Text highlighting for Vue.js](https://github.com/vuejs/vue-syntax-highlight)
         - [Sublime Text helpers for React](https://github.com/facebookarchive/sublime-react)
-    
+        - [TypeScript-Sublime-Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
+
     - CSS
     
         - [Bootstrap 3 Snippets Plugin for Sublime Text 2/3](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
