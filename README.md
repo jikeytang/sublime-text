@@ -470,6 +470,7 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 - [使用sublime Text 3进行java编程的一些总结](http://blog.csdn.net/wolinxuebin/article/details/41049551)
 - [sublime text3 设置专题](https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
 - [Sublime Text 3 最好的功能、插件和设置](http://gold.xitu.io/entry/56c40cacdf0eea0053199335)
+- [SublimeText3常用快捷键和优秀插件（亲测）](http://www.cnblogs.com/manfredHu/p/4941307.html)
 
 ## Add
 *	`jikeytang#gmail.com`
