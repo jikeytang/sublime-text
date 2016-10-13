@@ -96,6 +96,7 @@
 	*   [针对 ST3 的皮肤](https://github.com/ctf0/Seti_ST3)
 	*   [A Hyperminimal UI Theme for Sublime Text](https://github.com/kkga/spacegray)
 	*   [Customize color scheme for Sublime](https://github.com/zchen9/sublime-color-scheme/)
+	*   [推荐一款很酷的 Sublime Text 主题 – ayu](http://www.css88.com/archives/6340)
 3. Preferences
     - 用户设置  Preferences -> Settings - User
 	
