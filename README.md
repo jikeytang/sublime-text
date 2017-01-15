@@ -84,7 +84,8 @@
 18. [文件比较](https://github.com/colinta/SublimeFileDiffs)
 19. [CSS值转REM的Sublime Text插件](https://github.com/flashlizi/cssrem)
 20. [本地历史记录](https://github.com/vishr/local-history)
-		
+20. [目录树文件图标](https://github.com/ihodev/sublime-file-icons)
+
 ## Settings
 1. Font
 推荐使用 [YaHei.Consolas.1.12.ttf](http://code.google.com/p/uigroupcode/downloads/detail?name=YaHei.Consolas.1.12.zip&can=2&q=#makechanges)，即为上图中所示字体。
