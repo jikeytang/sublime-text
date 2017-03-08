@@ -1,6 +1,6 @@
 #[sublime text Download](http://www.sublimetext.com/dev)
 <img src="http://images.cnitblog.com/blog/100150/201212/30105834-adb210004ed5468b9f67e5384225a46d.png" alt="">
-改版过的`Monokai`，在仓库中，自取。windows用户放在：`C:\Users\Username\AppData\Roaming\Sublime Text 3\Packages\Monokai.tmTheme`
+改版过的`Monokai`，在仓库中根目录`Monokai.tmTheme`自取。windows用户放在：`C:\Users\Username\AppData\Roaming\Sublime Text 3\Packages\Monokai.tmTheme`
 
 ## Video
 
