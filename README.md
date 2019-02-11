@@ -205,6 +205,8 @@
     - [Enable Emmet in .JSX files, using Babel JSX Syntax highlighter](https://gist.github.com/neilcarpenter/8979ea9ed91b10e36af9) 
     - [Sublime text 3. Enable Emmet in JSX files](https://gist.github.com/max-mykhailenko/41d0c3991d92f38dcbc6) 
 
+12. [多台电脑同步sublime text设置](https://zhuanlan.zhihu.com/p/31192452)   
+
 ## Skill
 1. 按住 `ctrl` 键，鼠标单击就是多重选择。
 2. [键盘多重选择](http://baelabs.duapp.com/Sublime/multiple_selection_with_the_keyboard.html)
