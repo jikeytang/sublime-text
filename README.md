@@ -103,17 +103,19 @@
 	
 	    ```javascript
 		{
-			"color_scheme"        : "Packages/Color Scheme - Default/Monokai.tmTheme",    // theme
-			"draw_minimap_border" : true,                                                 // 右侧缩略图边框
-			"font_face"           : "YaHei Consolas Hybrid",                              // 字体设置
-			"font_size"           : 13,                                                   // 字体大小
-			"highlight_line"      : true,                                                 // 当前行标亮
-			"ignored_packages"    :	["Toggle Css Format"],                                // 开启vim模式
-			"save_on_focus_lost"  : true,                                                 // 失去焦点后保存
-			"auto_complete"       : false,                                                // 失去焦点后保存
-			"word_wrap"           : false,                                                // 强制不换行
-			"word_separators"     : "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",                 // 双击选中中划线
-			"update_check"        : false                                                 // 关闭自动更新
+			"color_scheme"              : "Packages/Color Scheme - Default/Monokai.tmTheme",    // theme
+			"draw_minimap_border"       : true,                                                 // 右侧缩略图边框
+			"font_face"                 : "YaHei Consolas Hybrid",                              // 字体设置
+			"font_size"                 : 13,                                                   // 字体大小
+			"highlight_line"            : true,                                                 // 当前行标亮
+			"ignored_packages"          :	["Toggle Css Format"],                                // 开启vim模式
+			"save_on_focus_lost"        : true,                                                 // 失去焦点后保存
+			"auto_complete"             : false,                                                // 失去焦点后保存
+			"word_wrap"                 : false,                                                // 强制不换行
+			"word_separators"           : "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",                 // 双击选中中划线
+			"update_check"              : false,                                                // 关闭自动更新
+			"open_files_in_new_window"  : false                                                 // 取消单文件预览，单击文件在新标签打开
+			//"preview_on_click"          : false                                                // 双击文件新标签打开
 		}
 		```
 	
@@ -433,8 +435,8 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
 
 ## Guide
 
-*   [sublime text zhihu专题](http://www.zhihu.com/topic/19668076)
-*   [xdebug调试](https://github.com/martomo/SublimeTextXdebug)
+* [sublime text zhihu专题](http://www.zhihu.com/topic/19668076)
+* [xdebug调试](https://github.com/martomo/SublimeTextXdebug)
 *	[sublimetext 3.0文档](http://baelabs.duapp.com/Sublime%20text3)
 *	[Sublime Text 3 绝对神器](http://www.cnblogs.com/bananaplan/p/Sublime-Text-3-Powerful.html)
 *	[SublimeText手册-tw](http://docs.sublimetext.tw/)
