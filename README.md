@@ -221,9 +221,9 @@
 ## Default Keymap
 
     1. Ctrl+L             选择整行（按住-继续选择下行） 
-	2. Ctrl+Shift+K(shhift+del)     删除整行，  ctrl + KK 从光标处删之行尾，Ctrl+K Backspace 从光标处删除至行首
-	3. Ctrl+Shift+D       复制光标所在整行，插入在该行之前  
-	4. Ctrl+D             选词 （按住-继续选择下个相同的字符串，再按，可跳到相应的方法定义处
+    2. Ctrl+Shift+K(shhift+del)     删除整行，  ctrl + KK 从光标处删之行尾，Ctrl+K Backspace 从光标处删除至行首
+    3. Ctrl+Shift+D       复制光标所在整行，插入在该行之前  
+    4. Ctrl+D             选词 （按住-继续选择下个相同的字符串，再按，可跳到相应的方法定义处
     5. Ctrl+Shift+M       选择括号内的内容（按住-继续选择父括号） 
     6. Ctrl+/             注释整行（如已选择内容，同“Ctrl+Shift+/”效果）
     7. Ctrl + alt + /     取消注释 
