@@ -1,4 +1,4 @@
-#[sublime text Download](http://www.sublimetext.com/dev)
+# [sublime text Download](http://www.sublimetext.com/dev)
 <img src="http://images.cnitblog.com/blog/100150/201212/30105834-adb210004ed5468b9f67e5384225a46d.png" alt="">
 改版过的`Monokai`，在仓库中根目录`Monokai.tmTheme`自取。windows用户放在：`C:\Users\Username\AppData\Roaming\Sublime Text 3\Packages\Monokai.tmTheme`
 
@@ -98,6 +98,10 @@
 	*   [A Hyperminimal UI Theme for Sublime Text](https://github.com/kkga/spacegray)
 	*   [Customize color scheme for Sublime](https://github.com/zchen9/sublime-color-scheme/)
 	*   [推荐一款很酷的 Sublime Text 主题 – ayu](http://www.css88.com/archives/6340)
+	*   [现在推荐 Sublime Text 皮肤 – Flatland Dark](https://github.com/thinkpixellab/flatland)
+	![Flatland Dark](https://camo.githubusercontent.com/45131d0300c85aea047a40ea46d24a109cb2657c/68747470733a2f2f7261772e6769746875622e636f6d2f7468696e6b706978656c6c61622f666c61746c616e642f6d61737465722f73637265656e73686f74732e706e67)
+	*   [现在推荐 Sublime Text 主题 – one-dark-theme](https://github.com/andresmichel/one-dark-theme)
+	![one-dark-theme](https://camo.githubusercontent.com/efab64d203d4a7c5132e387d347addfcc109c1eb/687474703a2f2f692e696d6775722e636f6d2f447954587863352e706e67)
 3. Preferences
     - 用户设置  Preferences -> Settings - User
 	
