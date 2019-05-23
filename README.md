@@ -436,6 +436,10 @@ sublime 支持 VIM 80% 左右的快捷键，以实际为准。
     - [Sublime报please wait a bit while pyV8 binary](http://jingyan.baidu.com/article/aa6a2c14d5177f0d4d19c45f.html)
     - [Sublime Text 3 解决Emmet失效的问题](http://www.jianshu.com/p/0862e754cf15)
     - [关于Sublime text 2中Emmet的安装 _html:xt无效](http://www.csdn123.com/html/itweb/20130915/119877_119876_119883.htm)
+    
+- 有没有类似其它工具的md？
+  
+    - [各个编辑器的配置收集 Idea-Settings](https://github.com/jikeytang/Idea-Settings)    
 
 ## Guide
 
